@@ -1,0 +1,15 @@
+.footer {
+    left: 0;
+    height: auto;
+    width: 100%;
+    background-color: Black;
+    color: white !important;
+    text-align: center;
+}
+.cfas{
+    font-size: 3em;
+    padding: 20px;
+}
+.cfas:hover{
+    color: #19aa8d;
+}

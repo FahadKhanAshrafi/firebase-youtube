@@ -1,0 +1,36 @@
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    border-radius: 5px;
+    background-color:whitesmoke;
+}
+img {
+    border-radius: 5px 5px 0 0;
+}
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+    padding: 2px 16px;
+}
+.ccard-body{
+    color: #000;
+}
+.crow{
+    display: inline-block;
+}
+.popup-content{
+    width: 35%!important;
+}
+.Ccard-text{
+    max-height: 40px;
+overflow-y: scroll;
+HEIGHT: 40PX;}
+.Ccard-title{
+    max-height: 30px;
+    height: 30px;
+    overflow: hidden;
+}
